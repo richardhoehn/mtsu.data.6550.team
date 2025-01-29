@@ -1,2 +1,4 @@
-# mtsu.data.6550.team
-Team Repo
+# DATA-6550 | Data Ethics and Responsibility
+
+The group/team is comprised of:
+- Richard
